@@ -1,0 +1,16 @@
+[
+  {
+    "x": 314,
+    "y": 1299,
+    "title": "Tire Change",
+    "photo": "photos/TireChange3.jpg",
+    "description": "We had to fix a flat tire here."
+  },
+  {
+    "x": 500,
+    "y": 300,
+    "title": "Overlook",
+    "photo": "photos/photo2.jpg",
+    "description": "A beautiful view from the ridge."
+  }
+]
