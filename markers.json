@@ -12,5 +12,12 @@
     "title": "1534",
     "photo": "photos/1534.jpeg",
     "description": "Home"
-  }
+  },
+  {
+x: 490,
+x: 1300,
+title: "Tire Change",
+photo: "TireChange2.jpeg",
+description: "Changing the tire",
+},
 ]
