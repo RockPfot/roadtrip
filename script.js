@@ -1,5 +1,5 @@
 // Use custom image as map background
-const imageUrl = 'map.jpg';
+const imageUrl = 'map.jpeg';
 const imageWidth = 1020;
 const imageHeight = 1755;
 
