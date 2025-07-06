@@ -14,22 +14,6 @@ const map = L.map('map', {
 L.imageOverlay(imageUrl, imageBounds).addTo(map);
 map.fitBounds(imageBounds);
 
-// Define photo markers with image coordinates
-const photoLocations = [
-  {
-    x: 314,
-    y: 1299,
-    photo: "photos/TireChange3.jpg",
-    title: "Stop 1"
-  },
-  {
-    x: 500,
-    y: 300,
-    photo: "photos/photo2.jpg",
-    title: "Stop 2"
-  }
-];
-
 // Create mobile-friendly modal
 const modal = document.createElement('div');
 modal.id = 'image-modal';
