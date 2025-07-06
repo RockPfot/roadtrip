@@ -50,9 +50,16 @@
    },
   {
   "x": 616,
-  "y": 1193,
+  "y": 1210,
   "title": "On the road",
   "photo": "photos/OntheroadtoSunstones1.jpeg",
   "description": "Focused"
+   },
+  {
+  "x": 595,
+  "y": 1163,
+  "title": "Wagon trains",
+  "photo": "photos/SunstoneRoad0.jpeg",
+  "description": "rollin cross the ..."
    }
 ]
