@@ -7,6 +7,13 @@
     "description": "Home"
   },
   {
+  "x": 450,
+  "y": 1300,
+  "title": "Map",
+  "photo": "photos/Glass Butte Map.jpeg",
+  "description": "We did better",
+  },
+  {
     "x": 480,
     "y": 1300,
     "title": "Tire Change",
@@ -26,5 +33,19 @@
     "title": "Tire Change",
     "photo": "photos/TireChange3.jpg",
     "description": "Success"
-  }
+  },
+  {
+  "x": 460,
+  "y": 1250,
+  "title": "Dinner",
+  "photo": "photos/DinnerGlassButte.jpeg",
+  "description": "Took forever",
+   },
+  {
+  "x": 485,
+  "y": 1250,
+  "title": "Obsidian Field",
+  "photo": "photos/Obsidian.jpeg",
+  "description": "of dreams",
+   }
 ]
