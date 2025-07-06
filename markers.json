@@ -14,10 +14,24 @@
     "description": "Home"
   },
   {
-x: 490,
-x: 1300,
-title: "Tire Change",
-photo: "TireChange2.jpeg",
-description: "Changing the tire",
+  "x": 490,
+  "y": 1300,
+  "title": "Tire Change",
+  "photo": "TireChange2.jpeg",
+  "description": "Changing the tire",
 },
+{
+  "x": 480,
+  "y": 1300,
+  "title": "Tire Change",
+  "photo": "TireChange1.jpeg",
+  "description": "Will it work",
+},
+{
+  "x": 500,
+  "y": 1300,
+  "title": "Tire Change",
+  "photo": "Tire Change3.jpeg",
+  "description": "Success",
+}
 ]
