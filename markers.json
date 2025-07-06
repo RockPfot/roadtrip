@@ -7,24 +7,24 @@
     "description": "Home"
   },
   {
-  "x": 490,
-  "y": 1300,
-  "title": "Tire Change",
-  "photo": "photos/TireChange2.jpeg",
-  "description": "Changing the tire",
-},
-{
-  "x": 480,
-  "y": 1300,
-  "title": "Tire Change",
-  "photo": "photos/TireChange1.jpeg",
-  "description": "Will it work",
-},
-{
-  "x": 500,
-  "y": 1300,
-  "title": "Tire Change",
-  "photo": "photos/TireChange3.jpeg",
-  "description": "Success",
+    "x": 490,
+    "y": 1300,
+    "title": "Tire Change",
+    "photo": "photos/TireChange2.jpeg",
+    "description": "Changing the tire",
+  },
+  {
+    "x": 480,
+    "y": 1300,
+    "title": "Tire Change",
+    "photo": "photos/TireChange1.jpeg",
+    "description": "Will it work",
+  },
+  {
+    "x": 500,
+    "y": 1300,
+    "title": "Tire Change",
+    "photo": "photos/TireChange3.jpeg",
+    "description": "Success",
 }
 ]
