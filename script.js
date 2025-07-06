@@ -91,13 +91,3 @@ const circleIcon = L.divIcon({
   iconAnchor: [4, 4],       // Centered anchor
   popupAnchor: [0, -8]      // Popup opens just above
 });
-
-// Add markers to the map
-photoLocations.forEach(loc => {
-L.marker([loc.y, loc.x], { icon: circleIcon })
-  .addTo(map)
-  .bindPopup(`
-    <strong>${loc.title}</strong><br>
-    <img src="${loc.photo}" width="100" style="cursor: pointer;" onclick="showImageModal('${loc.photo}')">
-  `);
-});
